@@ -45,4 +45,7 @@ and configure what the instances are
 application.properties
 time-service
 
+Finally -> Custom config of Ribbon CLient 
+Ribbon_Without_Discovery_Server branch
+
 
